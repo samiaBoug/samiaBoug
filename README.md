@@ -34,4 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiaboug&show_icons=true&locale=en&layout=compact" alt="samiaboug" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samiaboug&" alt="samiaboug" /></p>
