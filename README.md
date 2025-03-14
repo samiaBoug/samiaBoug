@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **bougtoubsamia@gmail.com**
 
-- ⚡ Fun fact **I find that music enhances my focus while coding, especially classical compositions.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
