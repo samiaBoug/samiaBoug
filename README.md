@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiaboug&label=Profile%20views&color=0e75b6&style=flat" alt="samiaboug" /> </p>
 
 
-- 🔭 I’m currently working on [Soli-LMS](https://github.com/samiaBoug/Soli_LMS_Test_Inscription)
+- 🔭 I’m currently working on [mern-project-resume-builder](https://github.com/samiaBoug/resume-builder)
 
-- 🌱 I’m currently learning **Laravel ,Vue.js**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://samiaboug.github.io/Portfolio_BOUGTOUB_Samia/](https://samiaboug.github.io/Portfolio_BOUGTOUB_Samia/)
 
